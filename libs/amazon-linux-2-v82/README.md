@@ -5,3 +5,4 @@ This package includes PHP 8.2 (bins, extensions, libraries) and Composer for Ama
 
 
 PECL Modules are located in the `/usr/lib64/php/modules` directory.
+Shared libs ar located in `/usr/local/lib` and copy `.so` files.
